@@ -1,0 +1,1 @@
+$("P").css("color", "red")
